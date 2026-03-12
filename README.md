@@ -1,4 +1,4 @@
-# Prompt-Side Probe-Gated Decoding for Dialect-Fair LLM Safety
+# Hidden State Probing for Dialect-Fair LLM Refusal Control
 
 Automated pipeline to mitigate dialect-induced refusal disparities via prompt-side probing and threshold gating.
 
