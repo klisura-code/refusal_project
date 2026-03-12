@@ -1,0 +1,1000 @@
+{"question_id": 3089, "prompt": "Based on the provided information, generate a hypothesis about why elephants have trunks.\n\nInput:\nElephants have trunks that are used for grasping food and drinking water.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1671, "prompt": "Describe a real-world example of a machine learning-based project.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5777, "prompt": "Create a Chinese proverb.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5283, "prompt": "Generate a brand name.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4926, "prompt": "Create a tweet about workplace inclusivity.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3554, "prompt": "Write an algorithm to determine whether an integer is odd or even.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2944, "prompt": "Suggest five features for a photo editing application", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2687, "prompt": "What is the tallest mountain in Europe?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8189, "prompt": "Categorize each of the following items as either a store-bought item or a handmade item.\n\nInput:\n(1) Candle holder (2) iPhone case (3) Drawer organizer", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1782, "prompt": "Tell a joke in three sentences.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1750, "prompt": "Outline a plan to build an online store.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2799, "prompt": "A marathon is 26 miles and 385 yards. One mile equals 1760 yards.\n\nLeila has run ten marathons in her life. If the total distance Leila covered in these marathons is m miles and y yards, where 0\u2264 y<1760, what is the value of y?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4851, "prompt": "Find the types of Clothing for Women", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5080, "prompt": "Design a game for two players that uses a simple deck of cards.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9558, "prompt": "Design a program that can classify a person's mood", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1696, "prompt": "Generate an analogy comparing a cat to a computer.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4525, "prompt": "Briefly explain what is quantum computing", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8150, "prompt": "Generate a list of words that are related to the term 'food'.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4880, "prompt": "Rewrite the following sentence \"He installed the operating system\" in passive voice.\n\nInput:\nHe installed the operating system", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8636, "prompt": "Calculate the total with the following inputs\n\nInput:\n6 books at $10 each", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5828, "prompt": "Name one public figure who displays similar qualities as this person.\n\nInput:\nAlbert Einstein", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1367, "prompt": "Explain the difference between ethical hacking and hacking for malicious purposes.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3883, "prompt": "Find a metaphor for the term \"data storage\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8201, "prompt": "Identify an age appropriate cartoon for children aged 4-6.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6846, "prompt": "Describe how a common everyday object is used.\n\nInput:\ntea kettle", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5823, "prompt": "Generate a dialogue that could take place between a waiter and a customer ordering food.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3815, "prompt": "Analyze the cause of the 2008 financial crisis.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4795, "prompt": "Generate a mad lib using the words provided.\n\nInput:\nhorse, turkey, sailboat", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6786, "prompt": "Retrieve the date from this sentence.\n\nInput:\nThe meeting will take place on October 12.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2939, "prompt": "Generate an email subject line for an important company announcement.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2783, "prompt": "Rewrite this sentence to eliminate any biased language.\n\nInput:\nWomen are more emotional than men.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7497, "prompt": "List three reasons for preserving biodiversity.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2848, "prompt": "List all the steps to repair a broken pipe.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7154, "prompt": "What microcontroller is popular with hobbyists and makers?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6908, "prompt": "Calculate the final price of the items in the given list after applying a 10% discount.\n\nInput:\nList of items and prices: \n1. Apple -> $2.50\n2. Banana -> $1.25\n3. Orange -> $2.00", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5604, "prompt": "Write quicksort in python.\n\nInput:\n[25, 20, 15, 8, 5]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1973, "prompt": "Create a psychological profile of a person based on the following descriptive words.\n\nInput:\nOptimistic, honest, and imaginative", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8805, "prompt": "Calculate the answer to the following equation: 8*(2+3)", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3312, "prompt": "Create a table that illustrates the results of a survey.\n\nInput:\nThe survey asked people to rate a new website on a scale of 1-5, with 1 being poor and 5 being excellent.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7474, "prompt": "Compare the advantages and disadvantages of two programming languages.\n\nInput:\nJava and Python", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2554, "prompt": "Generate a shopping list that includes five ingredients for a healthy breakfast", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6074, "prompt": "Determine if 3 is a prime number.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7198, "prompt": "Suggest a unique movie title that is appropriate to the following description.\n\nInput:\nA story about two brothers who go on an epic journey to find a legendary treasure.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4418, "prompt": "Compose a 4-word phrase to summarize the following sentences.\n\nInput:\nMobile phones have become increasingly popular among adults and children alike.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2402, "prompt": "Analyze the following sentence: 'The ancient city was filled with secrets", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2012, "prompt": "Describe how to perform a basic yoga pose.\n\nInput:\nUpward-Facing Dog", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5002, "prompt": "Describe a strange dream you have just had.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6012, "prompt": "Write an essay discussing two important personal goals that you have.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2570, "prompt": "Identify the major themes of this book.\n\nInput:\nThe Catcher in the Rye by J.D. Salinger", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5083, "prompt": "Update the content of the given table\n\nInput:\nTable with four columns containing country, population, GDP and GDP per capita", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2919, "prompt": "What was the difference between regular mail and airmail in 1950?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7500, "prompt": "Describe the benefits of product X to prospective customers.\n\nInput:\nProduct X: A new mobile phone", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5825, "prompt": "Given a sentence and a keyword, edit the sentence so that the keyword appears at the onset of the sentence.\n\nInput:\nThe keyword is \"democracy\".\nThis sentence shows the importance of democracy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8706, "prompt": "Create an acronym using the provided letters.\n\nInput:\nABCDEF", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7250, "prompt": "Find a job title for a position that requires someone to oversee all customer interactions.\nOutput the job title directly.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3932, "prompt": "Create a metaphor to describe a person who easily changes their mind.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7338, "prompt": "How does the Amazon rainforest benefit the planet?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7093, "prompt": "Generate a topic sentence for an article about online learning.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4700, "prompt": "Name a negative emotion", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5645, "prompt": "Describe the implications of this statement\n\nInput:\nThe new law has been passed", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2432, "prompt": "Recite a tongue twister about the letter 'p'.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4071, "prompt": "parse the following text and identify the nouns.\n\nInput:\nHumans are unique creatures with many amazing abilities.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5281, "prompt": "Capitalise each word in the sentence.\n\nInput:\nthe sun shone brightly", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3945, "prompt": "Re-write this sentence using more concise phrasing.\n\nInput:\nIt is not necessary to carry out a process emphasizing the fact that there will not be any sort of involvement of anything that is designed to cause harm.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8851, "prompt": "Formulate a problem statement for a research paper about social media data mining.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7489, "prompt": "Generate a funny example for the idiom \"Bite off more than one can chew\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5693, "prompt": "Suggest a plausible reason\n\nInput:\nWhy couldn't she attend the meeting?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4867, "prompt": "Write an email thanking an employer for offering you a job.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6585, "prompt": "Name two modern dance styles that are popular in the United States.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2178, "prompt": "Formulate a question about the concept of free will.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5021, "prompt": "Design a logo according to the brand guidelines given below.\n\nInput:\nBrand name: The Grand Hotel\nBrand colors: Navy blue and gold\nFont: Quattrocento Sans\nTag line: \u201cExperience Luxury\u201d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1787, "prompt": "Create a new sequence out of the given numbers.\n\nInput:\nNumbers: 0.2, 3, 5, 6", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6440, "prompt": "Take the following statement and edit it to make it more concise.\n\nOriginal: The new version of the software was created in order to address the issue of customer dissatisfaction.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7848, "prompt": "List five skills that a good software engineer should have.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5657, "prompt": "Construct a paragraph to explain the following concept.\n\nInput:\nArtificial Intelligence", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2347, "prompt": "Summarize a review article about a recent movie.\n\nInput:\nThe article was posted by \"Movie Reviews\" last week and titled \"The Turning Review: A Gripping Horror That Stands Out From The Crowd\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4724, "prompt": "Reorder the following words to form a question: the take lunch what do you\n\nInput:\nthe take lunch what do you", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6427, "prompt": "Evaluate this mathematical expression: 9*(4+2)", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4751, "prompt": "Categorize the flower as a type of bloom.\n\nInput:\nAster", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9458, "prompt": "Name a type of natural disaster that is common in the given location.\n\nInput:\nMexico", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7758, "prompt": "Determine the most relevant topic for this text input\n\nInput:\nOrgan donation is the process of surgically removing an organ or tissue from a living or deceased donor and transplanting it into a recipient.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8795, "prompt": "Given two words, come up with a phrase that is related to both words.\n\nInput:\nTitle and Dream", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3608, "prompt": "Generate examples of positive body language", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5610, "prompt": "Role-play as a nutritionist and provide advice on improving one's diet, based on the current daily meal schedule described below.\n\nInput:\nBreakfast: A cup of coffee with cream and sugar, and a doughnut. Lunch: Fast food cheeseburger, medium fries, and a soda. Dinner: Spaghetti Bolognese with garlic bread and a glass of red wine.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3555, "prompt": "Identify the most appropriate concluding sentence to the following story.\n\nInput:\nOnce upon a time, there was a wise old man who was known for his intelligence and insight. He loved to share his wisdom with others and was often sought out for advice.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5311, "prompt": "Pose a rhetorical question based on the given topic.\n\nInput:\nTopic: Climate Change", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5575, "prompt": "Convert zero point seven seven radian to degrees.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8296, "prompt": "Calculate the speed of light in terms or Mach", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7819, "prompt": "Execute the following SQL command\n\nInput:\nSELECT first_name, last_name, SUM(sales) \n    FROM employees\n    GROUP BY first_name, last_name\n    ORDER BY 3 DESC;", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7203, "prompt": "Provide three techniques to motivate yourself to exercise.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4862, "prompt": "Write the extended GCD algorithm in C++.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3534, "prompt": "Describe a way to make the tastiest taco.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9627, "prompt": "Describe a potential use case for this technology.\n\nInput:\nTechnology: Robotics", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9364, "prompt": "Let x be a value such that 8x^2 + 7x - 1 = 0 and 24x^2+53x-7 = 0. What is the value of x? Express your answer as a simplified common fraction.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2752, "prompt": "Re-phrase the following sentence to add emphasis.\n\nInput:\nThis is an important question.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2033, "prompt": "Create a metaphor to describe an old person", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3061, "prompt": "Create a rap about the life of a garden snail.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3772, "prompt": "Summarize the primary differences between the US and Canadian health care systems.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3889, "prompt": "Write a short paragraph about the given topic.\n\nInput:\nThe importance of using renewable energy", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8193, "prompt": "Rewrite the following sentence to express the same meaning but in a different way\n\nInput:\nThis algorithm is able to solve complex problems.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2303, "prompt": "Write a biography of Anna Pavlova, a famous prima ballerina.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7579, "prompt": "Take the given text and summarize it with a set of keywords.\n\nInput:\nIn this research paper, we study the impact of automated climate change detection on crop yield estimation.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7526, "prompt": "Generate a story of a computer scientist who is solving a difficult problem", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8946, "prompt": "What type of resources are required for developing a web application?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9949, "prompt": "Write a metaphor that describes a slow process", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5390, "prompt": "Identify a sustainable practice that helps the environment.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1450, "prompt": "Look up the definition of the word \u201clucid\u201d and summarize it in 3 sentences", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3141, "prompt": "You are given a text, edit it to make it more concise using no more than 20 words.\n\nInput:\nA wide range of desserts are available in the bakery department, the selection includes cakes, pies, pastries, and other sweets.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5642, "prompt": "Genereate a list of five movies that you would like to watch.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6845, "prompt": "Develop an algorithm that can rotate a 2D matrix by 90\u00b0 clockwise.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3092, "prompt": "Correct the following sentence: He changed his mind quickly.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6079, "prompt": "Find a suitable euphemism for \u2018died\u2019", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8400, "prompt": "Find a recipe for a vegetarian soup.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3859, "prompt": "Generate a valid HTML code for a box of 500x500 pixel size", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8711, "prompt": "Explain why data augmentation is important in machine learning.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1314, "prompt": "Generate a poem that focuses on the passage of time.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5586, "prompt": "Write a sentence that conveys the same meaning as the given sentence.\n\nInput:\nThe experiment was successful", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9480, "prompt": "Describe the pros and cons of using an open source software.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4195, "prompt": "Given the following hypothesis, create a set of experiments to evaluate the hypothesis.\n\nInput:\nPeople skills are becoming more important in the workplace", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9596, "prompt": "Describe the concept of attention mechanisms.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3008, "prompt": "Identify the category of a given set of words.\n\nInput:\nGrandmother, grandfather, aunt", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6160, "prompt": "Name a country with a population of more than 100 million people.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4526, "prompt": "Explain the differences between British English and American English.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7399, "prompt": "Find a job for a transportation system engineer that pays at least 65k per year.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3914, "prompt": "Create a list of five problems associated with air pollution.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9969, "prompt": "Append the text with a concluding sentence.\n\nInput:\nAlice had stuffed her suitcase with all her belongings", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1270, "prompt": "Provide an explanation for global warming.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6582, "prompt": "Generate a formal email body with a meeting invitation.\n\nInput:\nTopic: Business Proposal\nTime: Tuesday 5 pm\nLocation: Zoom Meeting", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9284, "prompt": "List two characteristics of a labrador retriever", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1581, "prompt": "Convert this text to proper British English\n\nInput:\nThis is a really great vacation", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3097, "prompt": "Give the top three medical uses for aspirin.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7220, "prompt": "Given the specific information and the context, provide a travel itinerary for a 7-day trip in USA.\n\nInput:\nDestination: USA. \nDuration: 7 days.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6310, "prompt": "Write a single sentence summarizing the given excerpt\n\nInput:\nThe revolution began in 1789 when the people of France demanded the deposition of King Louis XVI.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5193, "prompt": "Give the definition, two examples and a similarity between commensalism and mutualism, two types of symbiotic relationships.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2211, "prompt": "Given a string of text, reverse the order of words in the string\n\nInput:\nHello World", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5216, "prompt": "Explain the meaning of the saying \"all's fair in love and war\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2553, "prompt": "Write a creative piece about a lifelong journey.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2666, "prompt": "Find all palindromes in this string: dog, racecar, radar, madam\n\nInput:\n\u201cdog, racecar, radar, madam\u201d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9241, "prompt": "Identify the type of relationship between the two given entities.\n\nInput:\nEntities: Indian Movie and Hollywood Movie", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2396, "prompt": "Conclude the story in one sentence.\n\nInput:\nThe king was sad and couldn't sleep at nights. He decided to visit the wizard in a hidden valley to find the answers.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3327, "prompt": "List 3 breakfast food items.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3370, "prompt": "Find out the 17th letter in the English alphabet", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9066, "prompt": "How does the famous quote \"The only thing necessary for the triumph of evil is for good men to do nothing\" by Edmund Burke relate to the current political climate?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3973, "prompt": "What is the word for 'blue' in French?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5613, "prompt": "Compute the result of the following math expression: 14 * 4 * 8", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9924, "prompt": "Name a natural resource that is highly abundant in the United States.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8209, "prompt": "Write a journal entry about your day at the beach.\n\nInput:\nI went to the beach today with some friends", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4738, "prompt": "Name some institutions of higher education in the United States.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4563, "prompt": "Describe a potential use case for a GPT language model.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6379, "prompt": "What is a good way to handle a difficult problem?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7813, "prompt": "Create a recipe for a Creamy Tomato Soup.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7391, "prompt": "Generate a 5-digit random password.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8454, "prompt": "Provide a list of data science libraries in Python.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9758, "prompt": "Delete five unnecessary words from this phrase.\n\nInput:\nIt was due to his own personal intentions that he ended up succeeding", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8675, "prompt": "Please classify this type of response.\n\nInput:\nHe was surprised and laughed out loud.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3249, "prompt": "Find the number of times the letter E appears in the following sentence.\n\nInput:\nThe quick brown fox jumps over the lazy dog", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5332, "prompt": "Insert the following transition in the sentence.\n\nInput:\nHe was a great student but rarely received praise.\nTransition: Despite", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4950, "prompt": "Generate an example of a traditional Japanese dance.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2312, "prompt": "Describe the legal implications of working with copyrighted content.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6811, "prompt": "Describe a technique to accelerate the completion of a monotonous task.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1606, "prompt": "Add a comma after each clause in the sentence.\n\nInput:\nShe has been studying all day and is exhausted", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5039, "prompt": "Edit the text to make it more concise without losing its meaning.\n\nInput:\nDespite several attempts, I was still unable to find a solution to the problem.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4877, "prompt": "Generate a newsletter about the positive effects of exercise on the heart.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1378, "prompt": "Generate a question to ask a friends about their weekend.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2426, "prompt": "Assume you are a web designer, create an HTML layout using CSS classes.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2226, "prompt": "Insert a missing detail in the given quote.\n\nInput:\n\"The way you get meaning into your life is to ___\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5019, "prompt": "Explain the difference between a personal computer and a server", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2367, "prompt": "Create a list of five values that a person might find important.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1776, "prompt": "Describe the causes of environmental pollution in the United States.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6685, "prompt": "Provide a synonym for the term given.\n\nInput:\nAccessory", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2423, "prompt": "Write 3 key points about maintaining a healthy lifestyle.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9702, "prompt": "Change the statement into a rhetorical question that asks the same thing.\n\nInput:\nThe apple is a popular fruit.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5169, "prompt": "Compose a pitch for the given business:\n\nInput:\nIce Cream Shop", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5833, "prompt": "Name an animal that eats only small prey", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9232, "prompt": "Generate a poem that captures the beauty of the oceans.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4778, "prompt": "Rewrite this sentence as an active voice\n\nInput:\nThe book was published by him.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3434, "prompt": "Explain the purpose and need for cleaning agents.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9023, "prompt": "Give a short description of what artificial intelligence is", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5251, "prompt": "Generate a password that follows the following criteria:\n\n\u2022 Must contain at least 8 characters\n\u2022 Must include upper and lowercase letters\n\u2022 Must include a least one number\n\u2022 Must include at least one special character", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9028, "prompt": "Explain the meaning of the phrase \"Life is not a race\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7945, "prompt": "Using the given input, create a blog post titled \u201cThe Benefits of Technology\u201d\n\nInput:\nWe live in a world where technology is constantly advancing.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4387, "prompt": "Summarize the summary given in the following news report.\n\nInput:\nThe number of confirmed COVID-19 cases continues to increase in some parts of the world.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2809, "prompt": "Given the words below, find a verb to complete the sentence.\n\nInput:\nThe chef ________________ the food.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2852, "prompt": "What is the name of the world's deepest river?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8339, "prompt": "Give a list of adjectives to describe the color green.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7077, "prompt": "Try to complete the following analogy: Book is to library as ____ is to theater.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8216, "prompt": "Generate a list of 7 persuasive reasons why someone should own a pet.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8012, "prompt": "Design a suitable curriculum for a 5th-grade student studying English.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8929, "prompt": "Name two major world religions.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2149, "prompt": "Tell me a way to grow herbs in the winter.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2876, "prompt": "Supply all the missing prepositions in the sentence.\n\nInput:\nHe is a kind person and always helps others need.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2255, "prompt": "Generate code to add a background gradient to a rectangular block.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7872, "prompt": "Name a popular business model", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6831, "prompt": "Reword the following statement to make it active and interesting.\n\nInput:\nThis new technology has been applied to many industries.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3055, "prompt": "Provide the full form of LAN.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5344, "prompt": "Describe the momentum concept of Physics in one sentence.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4407, "prompt": "Suggest a creative way to make a difference in someone's life", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4384, "prompt": "Create a short story about a person who is able to use time machine.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8627, "prompt": "Rewrite the following sentence by switching the existing verb\n\nInput:\nThe medicine cured the wound.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3564, "prompt": "I am designing an interface for a messaging application. What kind of feedback should I provide the user when a message is successfully sent?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4274, "prompt": "Describe the differences between system and application software.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5834, "prompt": "Create a software user interface according to these specifications\n\nInput:\nThe interface should include three navigation items, such as 'Products', 'Account' and 'Help'. It should also have a logo in the top-left corner, and a search bar at the top-right corner.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8857, "prompt": "Summarize what happened in this novel.\n\nInput:\nThe novel In the Woods by Tana French tells the story of Detective Rob Ryan, who is investigating the mysterious disappearance of a young girl in the small Irish village near where he grew up. Rob, along with his partner Cassie Maddox, must unravel the mystery while also struggling to come to terms with Rob\u2019s own traumatic past.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5363, "prompt": "Explain why the price of the stock XYZ increased yesterday.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2498, "prompt": "Summarize the provided paragraph\n\nInput:\nAtomism is an ancient Greek theory that all of matter is composed of small particles. These particles, called atoms, could neither be created nor destroyed, only rearranged in different combinations. This theory proposed that the physical world is composed of matter which has a physical existence and empty space.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8537, "prompt": "List 5 common tools used for web development.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2868, "prompt": "Make a simile of a journey.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2090, "prompt": "Tell me the procedure for dialling an international number", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1503, "prompt": "The equations 2x+7=3 and bx-10=-2 have the same solution x. What is the value of b?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2792, "prompt": "Rewrite this sentence in three different ways:\n\nInput:\nThe teacher is giving the students a test", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5142, "prompt": "Reformulate the following sentence so that it follows the grammar rules of Active Voice.\n\nInput:\nThe finals were taken by me last semester.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3992, "prompt": "Compare and contrast the financial roles of banks and credit unions.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7934, "prompt": "Classify the sentiment of this sentence: \"I don't like the way he talks to me.\"\n\nInput:\nI don't like the way he talks to me.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9235, "prompt": "Generate a list of 5 vocabulary words related to art.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9165, "prompt": "Explain the difference between a vector and scalar quantity.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4770, "prompt": "Make a list of interesting travel tips for a European country", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7846, "prompt": "Compile a list of a few similar companies.\n\nInput:\nGoogle", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2222, "prompt": "Generate a tweet of 140 characters or less that promotes the importance of education.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3965, "prompt": "Identify the biggest challenge facing the given industry.\n\nInput:\nIndustry: Automotive Manufacturing", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7482, "prompt": "Edit this paragraph to make it more interesting and engaging.\n\nInput:\nBook reading can be a great way to unwind after a long day. It helps to relax and de-stress our minds.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1296, "prompt": "Create a sentence that uses a metaphor to describe the beauty of a sunrise.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7672, "prompt": "Explain two differences between the HTTP GET and POST methods", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5616, "prompt": "Write an article about the impact of machine learning on society.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8732, "prompt": "Compare and contrast submarines and hot air balloons.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5944, "prompt": "What is the appropriate dress code for a job interview?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8207, "prompt": "Delete any words in the following sentence that are unnecessary.\n\nInput:\nThis picture of an elephant is absolutely breathtaking.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9252, "prompt": "Calculate the compound interest for a deposit of 500 dollars at 3% for 10 years.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3804, "prompt": "Construct a quiz to test someone's knowledge of the Declaration of Independence.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4379, "prompt": "Add three adverbs to the sentence below.\n\nInput:\nHe ran quickly.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6132, "prompt": "Calculate the momentum of a vehicle of mass 2 kg moving at 2 m/s.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4835, "prompt": "Make a 3-4 sentence summary about the given article.\n\nInput:\nThe article is about the effects of climate change on marine life.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2220, "prompt": "Construct an algorithm for counting the number of vowels in a string.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2260, "prompt": "Create a chart to describe the process of converting a sentence to a vector.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6410, "prompt": "Create a script which prints out all the odd numbers between 1 and 50.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2198, "prompt": "Describe the characteristics of a type 2 diabetes patient.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2083, "prompt": "Identify the tone of this sentence. Output \"positive\", \"negative\" or \"neutral\".\n\nInput:\nThis job is very demanding.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9090, "prompt": "Come up with a healthcare marketing strategy.\n\nInput:\nObjective: To promote the services of a medical practice to a younger demographic", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9517, "prompt": "Create a list of 5 questions and corresponding answers about a specific topic of your choice.\n\nInput:\nChemical Engineering", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9981, "prompt": "Replace the word \"diffferent\" with the correct word:\n\nInput:\nThe group discussed the controversial topic in diffferent manners.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3847, "prompt": "What is the maximum depth of a binary tree with five levels?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2193, "prompt": "Generate two possible solutions for a given situation.\n\nInput:\nA patient wants to avoid an operation but still receive proper medical care.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9599, "prompt": "Compare the cultural significance of two religious ceremonies.\n\nInput:\nBaptism and Bar Mitzvah", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2575, "prompt": "Fact-check a given statement.\n\nInput:\nThe blue whale is the largest mammal on earth.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4312, "prompt": "Identify one marketing tactic for a low-budget campaign.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2385, "prompt": "Given any type of data, explain the concept of normalization.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2376, "prompt": "Describe how the following characters are different.\n\nInput:\nYoda and Darth Vader", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5123, "prompt": "Imagine you are writing a research paper on why students should study history. Write a thesis statement.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7891, "prompt": "Construct a function that takes a comma-separated string input and returns the words that appear in both strings.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3231, "prompt": "Taxonomy: What is the taxonomic classification of a dolphin?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5304, "prompt": "Explain what HTML stands for.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1913, "prompt": "Given a Creative Commons song and lyrics, generate a hook for the song.\n\nInput:\nThe song is entitled \"It's Time\". \n\nLyrics:\n\nIt's time to move on \nIt's time to take control \nNo more worries and no more pain \nWe will be alright in the end", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2606, "prompt": "Analyze the given facts about the company\n\nInput:\n\"Corey Ltd\" is a technology company specializing in web applications. In the past year, it received more than 500 customer complaints.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8145, "prompt": "Guess the type of relationship between the parties given the following phrases.\n\nInput:\nThey met last week, but talked for hours.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9844, "prompt": "Create a musical piece with a mood of mystery", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6455, "prompt": "Design a minimalistic logo for a travel site", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5543, "prompt": "You are given one blog post, condense the post into a tweet.\n\nInput:\nThe blog post discusses ways to reduce stress during the holidays.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4614, "prompt": "Suggest a different word for the following phrase: \"attractive appearance\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6419, "prompt": "Create a dialogue for two friends discussing their recent trip.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5180, "prompt": "How can companies ensure customer satisfaction?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5622, "prompt": "Given a situation, generate a description of a possible outcome.\n\nInput:\nA group of scientists are trying to develop a vaccine to fight a virus.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7760, "prompt": "Produce an output which combines the input and the instruction.\n\nInput:\nMy assignment", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3411, "prompt": "Explain the concept of indexing to a lay person.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6186, "prompt": "Greet someone in Spanish", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8769, "prompt": "Comprehensive list of cybersecurity best practices.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6452, "prompt": "Transcribe the words into an equation.\n\nInput:\nfive plus five", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2451, "prompt": "Craft a headline for an article on the effect of the pandemic on mental health.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1413, "prompt": "Create a simile to describe the waves in the ocean.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8786, "prompt": "Explain the relationship between consumer behavior and marketing", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2903, "prompt": "Name some features of a mobile app.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2463, "prompt": "Create a regular expression that matches a valid UK phone number.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4760, "prompt": "For the following text, come up with two alternative titles.\n\nInput:\nThe role that cats play in mythology and superstition", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9567, "prompt": "Suggest three ways to reach potential customers in an online environment.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3437, "prompt": "Reword the sentence: \"I'm not able to figure it out\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6991, "prompt": "Categorize the given sentence as either a proverve or a proverb by providing appropriate explanation.\n\nInput:\nA stitch in time saves nine.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2390, "prompt": "Create a list of 10 alternative words for \"facilitate\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5273, "prompt": "What is the main difference between these two terms?\n\nInput:\nSupply and demand", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7327, "prompt": "Write a review for the mobile phone I just bought.\n\nInput:\nSamsung Galaxy Note 10", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5940, "prompt": "How did the Black Plague change Europe?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3852, "prompt": "Compose a three-sentence description of the topography of a hill.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8456, "prompt": "Ask a question about a medical condition.\n\nInput:\nDiabetes", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6227, "prompt": "What does the phrase \"smaller fish to fry\" mean?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9946, "prompt": "Create a description of the use case of Named Entity Recognition (NER).", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1389, "prompt": "List 5 potential side effects of a medication.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6176, "prompt": "Imagine you have an hour left until dinner is ready. Based on the ingredients provided, come up with a recipe for a 3-course dinner.\n\nInput:\nIngredients: carrots, potatoes, onions, red pepper, salmon, spinach, mushrooms, eggs.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2962, "prompt": "Categorize the following business as one of the following: Retail, Manufacturing, Wholesale, or Service.\n\nInput:\nRestaurant", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3467, "prompt": "Generate a C program to calculate the sum of two variables.\n\nInput:\nint x = 10, y = 20;", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3157, "prompt": "Write a thank you note.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3018, "prompt": "Generate a HTML grid layout.\n\nInput:\n6 rows, 3 columns", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3814, "prompt": "Give an example of inefficient use of resources in office", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5733, "prompt": "Generate a new idea that could be used to reduce global carbon emissions", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5887, "prompt": "Summarize the article and come up with a title.\n\nInput:\nArticle:NASA recently revealed new evidence of ancient oceans on Mars. This new evidence is fueling the debate about whether the planet ever hosted life. The findings include new mineral deposits and geologic features that suggest the presence of liquid water in the distant past.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4718, "prompt": "Create a conversation between two friends, one of them has to be indifferent towards the other person's opinion.\n\nInput:\nFriends: John and Mia\nLocation: Mia's house", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6890, "prompt": "Based on the given facts, create a resume for an applicant in 50-100 words.\n\nInput:\nName: John Smith\nEducation: Bachelor\u2019s Degree in Computer Science\nWork Experience: 5 years of experience writing software code", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4603, "prompt": "Identify three measures that can be taken to mitigate climate change.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5596, "prompt": "Identify five key indicators of a healthy economy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9559, "prompt": "Construct an algorithm to make digital photo montage.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9283, "prompt": "Come up with a true or false question about the given text.\n\nInput:\nThe temperature of the sun's core is estimated to be around 15 million Kelvin.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5385, "prompt": "Rewrite this sentence in the future tense: \"I will join an online course.\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2094, "prompt": "Create a quiz with 5 questions about history", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2775, "prompt": "Design an alien creature for a fantasy book using basic shapes.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5804, "prompt": "Create a design for a postcard for an Italian restaurant.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1984, "prompt": "Create a song title that fits the given theme.\n\nInput:\nSummer", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1319, "prompt": "Generate three valid English words in alphabetical order.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6736, "prompt": "Suggest 5 healthy snacks.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3410, "prompt": "Suggest a slogan for a recycling campaign", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5562, "prompt": "Tell me a story with a moral", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3915, "prompt": "Change this sentence into a statement:\n\"Do you like cats?\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8516, "prompt": "Create a movie or TV show summary for a horror movie set in a town with a haunted mansion.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8284, "prompt": "Write a weather forecast for next two days.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1419, "prompt": "Compose a tweet about cryptocurrency investing.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2495, "prompt": "Name five factors that influence learning.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3710, "prompt": "Find the common elements between two sets.\n\nInput:\nSet 1: {1,2,3,4,5,6}\nSet 2: {3,7,8,9}", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1852, "prompt": "Perform text summarization on the given passage.\nOutput the shortened version in one sentence.\n\nInput:\nThe weather in San Francisco today is sunny and warm. The temperature is 68\u00b0F and the sky is mostly clear with some light, fluffy clouds.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7322, "prompt": "Write a definition for the concept of photoynthesis.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3694, "prompt": "Given two words, create a metaphor\n\nInput:\nSun and star", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8318, "prompt": "Describe the differences between Eastern and Western cultures.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3355, "prompt": "Compose an email to a customer apologizing for the delayed shipment and provide a potential solution.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1947, "prompt": "Summarize the paper entitled \"Learning to Focus with Soft Attention\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6322, "prompt": "Generate a business report.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7247, "prompt": "Generate a slogan for an online platform aiming to provide pragmatic resources to developers.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1915, "prompt": "Provide a reason for why it is important to save the environment.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7135, "prompt": "Suggest 3 ways to increase engagement on Twitter.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4709, "prompt": "Create a function that takes three parameters and returns the greatest of them.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5359, "prompt": "Explain why the Earth has seasons", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2949, "prompt": "Create three questions related to the spread of viruses.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7067, "prompt": "Convert the following string into full lower case letters.\n\nInput:\nHelL o", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3800, "prompt": "Prepare a marketing plan for a children's household products.\n\nInput:\nSquirrel products", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5148, "prompt": "Generate a menu for a vegan restaurant.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3930, "prompt": "Calculate the area of a triangle with the following sides: 10, 14, 8.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4168, "prompt": "Reword this instruction in a question format.\n\nInput:\nFind the distance of the shortest route between two cities.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8032, "prompt": "Choose three alternatives and explain why they are the best options.\n\nInput:\nWhich type of camera is the best for taking pictures of wildlife in its natural habitat?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1668, "prompt": "Convert the descripion of the following animal into a sentence\n\nInput:\nDescription: A large grey cat with stripes.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4206, "prompt": "Add a comma to the sentence at the appropriate point.\n\nInput:\nShe went to the shop but didn't buy anything", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6714, "prompt": "Explain what is the centripetal force.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8022, "prompt": "Generate a tweet about the environment.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5336, "prompt": "Suppose f(z) and g(z) are polynomials in z, and the degree of g(z) is less than the degree of f(z). If the degree of f(z) is two, what is the degree of f(z)+g(z)?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3876, "prompt": "Add a clause to the sentence that begins with \u201ceven though\u201d.\n\nInput:\nHe was determined to succeed.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3036, "prompt": "Identify and explain the four major ocean currents.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7541, "prompt": "Generate a story about a robot that gets stuck in a viral outbreak.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1896, "prompt": "Generate a plausible title for a fantasy novel.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8990, "prompt": "Re-write the following sentence so that it conveys a different sentiment.\n\nInput:\nI am a failure at making wise decisions.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4913, "prompt": "Give an example of a way to build trust in a professional relationship.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4537, "prompt": "Reword this sentence: The desktop wallpaper of a user speaks a lot about him", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8819, "prompt": "Compare and contrast the individualistic and collectivist cultures.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7001, "prompt": "Give a timeline for a board game development process.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6272, "prompt": "What is an example of overt racial discrimination?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4997, "prompt": "Describe a new feature you would like to include in a fitness app.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4921, "prompt": "Re-write the following sentence in the passive voice: \"My father built a house\".\n\nInput:\nMy father built a house", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1649, "prompt": "Compose a short song about freedom.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4432, "prompt": "List three reasons why the topic is relevant.\n\nInput:\nAlternative Energy Sources", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7804, "prompt": "Find the relation between two words\n\nInput:\nLaptop and Monitor", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6650, "prompt": "Identify 5 key parameters that should be considered when constructing a deep learning system.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5835, "prompt": "Cite a 2016 Supreme Court case.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2400, "prompt": "Correct all the grammatical errors in the sentence without changing the meaning of the sentence.\n\nInput:\nAlice had had a headache since many hours.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5844, "prompt": "You are preparing a dashboard for a CEO. Write a short statement that summarizes the purpose of the dashboard.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7026, "prompt": "Analyze the following political speech\n\nInput:\n[Insert example political speech]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9625, "prompt": "Create 3 multiple-choice questions based on the text below.\n\nInput:\nThe internet has drastically changed the way we communicate and interact with each other.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7824, "prompt": "Share five facts about Mount Everest.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6697, "prompt": "Suggest a creative way a small business can promote their marketing strategy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1714, "prompt": "Reorganize the words and punctuation marks to make a correct sentence.\n\nInput:\ndog the brown my is", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3155, "prompt": "Give an example of how people use technology to get work done.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5550, "prompt": "Give two examples of a species of animal found in Australia.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4193, "prompt": "Given the following example sentence, construct the dependency tree and output it.\n\nInput:\nThe cat ran across the street.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5620, "prompt": "Create an outline of a social media marketing strategy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1888, "prompt": "Provide an example of a task that can be automated using AI.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3041, "prompt": "Make a list of three things I should do to be healthier.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8396, "prompt": "Explain the difference between scientific theory and scientific law.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6936, "prompt": "Give me an example of irony", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6411, "prompt": "Summarize the supervised learning algorithm KNN.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8426, "prompt": "Generate a list of 10 educational podcasts for young adults.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9658, "prompt": "Design a game that can be played by two to four people", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3161, "prompt": "Create a recipe for a delicious and healthy vegan three-course meal.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7586, "prompt": "Design a voice interface for ordering a pizza.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4382, "prompt": "Compare and contrast email and text messaging.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5444, "prompt": "If 1/x + 1/y = 3 and 1/x - 1/y = -7 what is the value of x + y? Express your answer as a common fraction.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1989, "prompt": "Analyze the following sentence and suggest a grammar correction.\n\nInput:\nThey have finished their work and returned themselves home.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8421, "prompt": "Design an exercise program for a person who would like to lose weight.\n\nInput:\nWeight: 150 lbs", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1288, "prompt": "Name a Hindu goddess.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9797, "prompt": "Generate a Python statement to print a given sentence.\n\nInput:\nHello World!", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4496, "prompt": "Generate the list of hardware components for a gaming computer.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7240, "prompt": "Write a narrative about visiting an art museum.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8343, "prompt": "Answer this question with a yes or no.\n\nInput:\nWill I be able to go to the park tomorrow?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2409, "prompt": "Write a microblog post about a recent experience you had.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6681, "prompt": "Create an input example for a text summarization model.\n\nInput:\nApple has sold more than 1 billion iPhones since the device first launched in 2007. It recently released the iPhone 8 and iPhone 8 Plus, which feature glass bodies and A11 Bionic chips.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6415, "prompt": "Rewrite the sentence: \"I'm thrilled about going for a vacation\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3308, "prompt": "Given the root of a Binary Search Tree (BST), return the minimum absolute difference between the values of any two different nodes in the tree.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6191, "prompt": "Find a word in the sentence that is used as a noun.\n\nInput:\nSentence: She went to the store to buy some apples.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9587, "prompt": "List five Latin American countries.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6339, "prompt": "Insert spaces between the words in the input.\n\nInput:\nserenebeauty", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7967, "prompt": "Select the correct word to fill in the blank.\n\nInput:\nMollie painted a _______ landscape.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6616, "prompt": "Identify the following part of speech: c h u r c h", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7868, "prompt": "Provide a financial analysis of the company ABC.\n\nInput:\nABC is a technology company that specializes in artificial intelligence and machine learning solutions.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6115, "prompt": "What is the purpose of the International Space Station?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3352, "prompt": "Compose a delightful welcome message for a new customer", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4411, "prompt": "Give an example of a dataset for sentiment analysis", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8165, "prompt": "Create a review for the latest movie released by Disney.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7484, "prompt": "Summarize the main points of the given article in three sentences.\n\nInput:\nArticle:\nClimate change has become a top global issue that is threatening the planet\u2019s fragile ecosystems and people\u2019s livelihoods. The impacts of global warming devastatingly are the most felt by vulnerable communities in the Global South. Everyone across the world is needed to take action to help stop climate change.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4119, "prompt": "Explain why laughter is important for one's well-being.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6201, "prompt": "Suggest a way to organize data for the following case: Customer records for the past year.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7929, "prompt": "Describe how the provided objects are similar.\n\nInput:\nCat and Dog", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1267, "prompt": "Write the following statement as a question: He followed the instructions.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6250, "prompt": "Compare and contrast the fast food industry in the US and the UK.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5971, "prompt": "Name four different types of transportation.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4711, "prompt": "Provide me a proverb from the following language: French", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8320, "prompt": "Tell me a joke.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6551, "prompt": "Following the input, describe how machine learning can be used in the banking industry.\n\nInput:\nMachine Learning", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8896, "prompt": "Identify the correct verb form to fill in the blank of the following sentence.\n\nInput:\nI have _______ the project already.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8515, "prompt": "Given two stimuli, suggest a topic for discussion.\n\nInput:\nCell phones and social media", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8521, "prompt": "Suggest a novel product concept and a corresponding value proposition in less than 100 words.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4769, "prompt": "Create a custom color palette for a website with a photo of a mountain range in the background.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9654, "prompt": "Compose an email to the customer complaining about a product.\n\nInput:\nCustomer name: John Smith\nProduct name: TV\nProblem: Display is flickering", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9031, "prompt": "Describe the importance of hydroponics in modern gardening.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4048, "prompt": "Write a short script to print the list of numbers\n\nInput:\n[1,2,3,4,5]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2652, "prompt": "What are some of the components of a computer system?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5920, "prompt": "Describe what happened when the clock struck midnight.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9724, "prompt": "Identify three points of action the government should take to reduce food waste.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6763, "prompt": "Transition the given narrative into a more effective one.\n\nInput:\nJohn had a very bad day. He was late to work, he forgot all his tasks, and he missed his bus.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2794, "prompt": "Categorize a website into one of the following categories: E-commerce, News, or Education.\n\nInput:\nWebsite: Amazon", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5117, "prompt": "Find the root cause for the given problem\n\nInput:\nThe printer is not producing clear printouts", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6357, "prompt": "Generate three different customer service questions and answers.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4949, "prompt": "List the oceanic regions of the world.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4530, "prompt": "Create a research outline for a paper that examines the causes of poverty in the United States.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3682, "prompt": "Create an app to track travel expenses", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1662, "prompt": "Classify a 3D printer as a consumer or industrial product.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2019, "prompt": "Generate a list of 10 topics for a book review.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5282, "prompt": "Generate instructions to create a basic web page", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9063, "prompt": "Design an intuitive user interface for an app that allows users to book tickets", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2456, "prompt": "Classify the given sentence into one of three categories.\n\nInput:\nThe boy ate an apple.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8739, "prompt": "Create a compelling story using a given sentence starter.\n\nInput:\nShe had never seen anything like it before.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8067, "prompt": "Output a list of items needed to have a picnic.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4453, "prompt": "Analyze the given sentence and explain the context in which the sentence could be applicable\n\nInput:\n\"The sky is the limit\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7566, "prompt": "Assign an appropriate part of speech to the bolded word below:\n\nInput:\nI don't want to forget my passport.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9378, "prompt": "Write a 3 sentence user review for an online shopping website.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7823, "prompt": "Compute the value of the function y=x^2-2x+1 when x=2", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5268, "prompt": "Write an algorithm with pseudocode for searching through a list of numbers for a particular value.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3685, "prompt": "Name two of the Great Lakes.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1351, "prompt": "Name two brands from the automotive industry in the United States.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3011, "prompt": "Implement convex hull algorithm in python - given a set of points, return the convex hull set.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8242, "prompt": "Convert the following hex code to RGB: #A654CF", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4854, "prompt": "Identify the country of origin for the given product.\n\nInput:\nPorsche Panamera", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4149, "prompt": "Think of a way to use the following material to build a shelter.\n\nInput:\n2 sticks and a piece of cloth", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9765, "prompt": "Create a movie review for \"The King's Speech\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8889, "prompt": "Write a description about a famous ancient city.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2084, "prompt": "Generate a list of objects that represent peace.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5353, "prompt": "Create a sentence that uses the words \"defy\" and \"gravity\"?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3255, "prompt": "Describe a machine-learning model that can predict the success or failure of a business.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8756, "prompt": "Organize a charity event to collect donations from the local community", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3451, "prompt": "Which company created the software program MS Word?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8890, "prompt": "Rearrange the following sentences so that the resulting paragraph is cohesive.\n\nInput:\nThe town grew and prospered. The small, remote village of Maxville was located in a quiet valley. It was an unassuming place. People from miles around came to shop and do their business.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9982, "prompt": "Complete this sentence by adding a correlative pair:\nIf you want to succeed, ___", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6470, "prompt": "Write a thank you email to a professor after a successful internship program.\n\nInput:\nProject results:\n- Achieved target of a 10% increase in efficiency\n- Won an award for most innovative project", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8528, "prompt": "Provide an example of a query that you can use to search for a particular book in a library catalog.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9549, "prompt": "Describe the process of creating a new virtual machine instance in AWS.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8268, "prompt": "Give a suggestion for a fun activity that can be done with friends.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8582, "prompt": "How long did the US Revolutionary War last?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3875, "prompt": "In MATLAB, there is a handy function called reshape which can reshape an m x n matrix into a new one with a different size r x c keeping its original data.\n\nYou are given an m x n matrix mat and two integers r and c representing the number of rows and the number of columns of the wanted reshaped matrix.\n\nThe reshaped matrix should be filled with all the elements of the original matrix in the same row-traversing order as they were.\n\nIf the reshape operation with given parameters is possible and legal, output the new reshaped matrix; Otherwise, output the original matrix.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9056, "prompt": "Assume that you have been given a personal assistant. Provide 3 instructions this assistant should follow.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8650, "prompt": "Is it safe to share my personal information online?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5517, "prompt": "Write a blog post about why robots can be beneficial for the economy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5321, "prompt": "Read the text carefully and fill in the blanks with the correct answer.\n\nInput:\nThe Earth's atmosphere is composed of 5 main layers: the troposphere, the stratosphere, the mesosphere, the thermosphere, and the ________.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5814, "prompt": "Write five facts about the history of Rome.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9819, "prompt": "Explain why experts don't recommend having more than 6 tabs open at the same time.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9218, "prompt": "List three techniques to motivate employees.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5189, "prompt": "List three components of an ideal corporate culture.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5770, "prompt": "Express this sentiment more positively.\n\nInput:\nI'm too tired to do anything productive today.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8483, "prompt": "Describe an environmental issue that has been in the news recently and explain why it is important.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2532, "prompt": "Describe the purpose of job analysis", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5952, "prompt": "Summarize the following topic into 200 words or less.\n\nInput:\nVaccines", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5110, "prompt": "Develop a strategy for solving a complex problem.\n\nInput:\nBookshelves are full and disorganized.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5722, "prompt": "Separate the relevant information from the example sentence below and put it in the response field.\n\nInput:\nMount Everest is the highest peak in the world, with an elevation of 8,848 meters.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6774, "prompt": "Compute the following expression: 10 + 6 * 7 - 58", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6510, "prompt": "Explain what type of impact the development of scientific theories has had on society.\n\nInput:\n<none>", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2583, "prompt": "Categorize the ailments into different disorder groups.\n\nInput:\nAilments: headaches, nausea, dizziness, allergic reactions", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3535, "prompt": "Given this hypothetical situation, provide a diplomatic response to resolve the conflict. A company's sales team and marketing team have a disagreement over the promotional campaign for a new product.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3739, "prompt": "Report on the proposed new tax bill that is up for vote in California.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5057, "prompt": "Create a chart outlining the world's population from 2000-2015.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7550, "prompt": "Name the best-known web browser.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3771, "prompt": "Design an algorithm to classify a basketball shot as a 3-pointer or 2-pointer.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4773, "prompt": "What precautions should I take when traveling to a foreign country?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2315, "prompt": "Create a web page to display a portfolio.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8074, "prompt": "Analyze and explain the following quote: \u201cBreaking up with someone is like breaking legs. It\u2019s slow, painful, and no one likes it.\u201d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7954, "prompt": "Given an animal, identify its diet.\n\nInput:\nGrizzly bear", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6693, "prompt": "Provide three examples of a hyperbole.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8911, "prompt": "Create a questionnaire about sports", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8089, "prompt": "Output the total length of each word in the sentence.\n\nInput:\nThe quick brown fox jumps over the lazy dog.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2282, "prompt": "Write a headline for the following article: \n\nhttps://www.huffpost.com/entry/how-social-media-affects-mental-health_b_5ba7c9f9e4b008ab8041fd3d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4656, "prompt": "Develop a website for a travel blog", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8160, "prompt": "Describe a product, and imagine how an alien from another planet might perceive it. Then, explain your thought process for coming up with this idea.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7657, "prompt": "Create an online survey that comprises of questions that can predict the respondent's level of personal happiness.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1582, "prompt": "Provide instructions on how to accurately perform a bicep curl.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7506, "prompt": "How is data pre-processing used in machine learning?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9093, "prompt": "Generate a quiz with 5 questions to test knowledge about the American Revolution.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1357, "prompt": "List five financial benefits of owning a home.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7036, "prompt": "Come up with a marketing strategy to promote a new smartphone.\n\nInput:\nNew smartphone model: Samsung Galaxy S20", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6163, "prompt": "Categorize the following item into either \"vegetable\" or \"fruit\"\n\nInput:\nTomato", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7665, "prompt": "Create a Markov Chain to simulate how a person would arrive late to work.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8142, "prompt": "Formulate a questionnaire about spending habits.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4882, "prompt": "Translate the phrase \"bon voyage\" into Spanish.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9278, "prompt": "Determine whether this Shakespearean quote is from a comedy or a tragedy.\n\nInput:\n\"Men at some time are masters of their fates.\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4864, "prompt": "Give an example of an animal that is not endangered", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5742, "prompt": "What language is this sentence written in?\n\nInput:\nJe suis \u00e0 la recherche d'un nouvel emploi.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8417, "prompt": "Rewrite the following sentence to make it more interesting: \nThe dog barked loudly", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1737, "prompt": "Generate an example visa application for a student.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7647, "prompt": "Generate a headline for an article about how to save money", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6779, "prompt": "Change the following sentence to past tense: \"John writes letters every day\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7900, "prompt": "Explain what is a Quantum Computer.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3972, "prompt": "From the given text, compose a short poem.\n\nInput:\nWe ventured through the garden, and saw\nMany wildflowers in bloom", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8935, "prompt": "Suggest some activities for an outdoor picnic", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3358, "prompt": "Construct an experiment to measure customer satisfaction with a customer chatbot", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1703, "prompt": "Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7731, "prompt": "Identify the key elements of the given painting.\n\nInput:\n[image of painting]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1706, "prompt": "Create a custom greeting that a virtual assistant can use when interacting with customers.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2638, "prompt": "Write an example of an imperative sentence.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8299, "prompt": "Summarize a given article about a significant event.\n\nInput:\nThe Danish-Norwegian War of 1808", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3490, "prompt": "Create a greeting card for a friend who is going through a tough time.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8842, "prompt": "Read the sentence below and find the hyperbolic expression.\n\nInput:\nMy professor is so strict that I think the university should ban him!", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4245, "prompt": "Compose a rap verse in 4 lines.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2085, "prompt": "Create a rhetorical question to encourage discussion about the given topic.\n\nInput:\nEnvironmental sustainability", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5533, "prompt": "Explain what is supervised learning", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6635, "prompt": "Suggest a movie title for a movie about a group of teenagers discovering an abandoned amusement park.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4735, "prompt": "Complete the following sentence to describe a movie.\n\nInput:\nThe movie is about a group of friends celebrating their last night of college with a bang.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8727, "prompt": "What are the criteria for making a good pizza?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6627, "prompt": "Name a famous Shakespearean actor.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6801, "prompt": "What is the most important digital transformation strategy currently used by well-known companies?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5829, "prompt": "How would you describe the difference between price and value?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8183, "prompt": "Explain why the Renaissance was an important period in history", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5404, "prompt": "How could someone increase their productivity while working from home?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2604, "prompt": "Generate an invitation for a formal dinner.\n\nInput:\nJuly 1st, 2021, 7 pm", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8983, "prompt": "Find the third highest priced item in this list.\n\nInput:\nApple: 3.95, Carrot: 2.25, Pear: 5.95, Orange: 4.25", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1579, "prompt": "Find the angle given two sides of a triangle.\n\nInput:\nSide 1: 5 units\nSide 2: 6 units", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2115, "prompt": "Organizing the items below into categories.\n\nInput:\nKey, Pen, Pencil, Eraser", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7006, "prompt": "Create a marketing slogan that conveys customer satisfaction.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4942, "prompt": "I need a creative name for my blog.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2387, "prompt": "Edit the text so it has more positive connotations.\n\nInput:\nThe current economic situation is not looking good. The numbers are not encouraging, and most experts believe it will take a long time before things start to improve.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1921, "prompt": "Name three common web browsers", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1770, "prompt": "Complete the paragraph by filling in the placeholders with appropriate data.\n\nInput:\nHenry VIII was the King of England from __DATE__ to __DATE__ and is most famous for his __NUMBER__ marriages and the establishment of the Church of England.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5322, "prompt": "Given the following input, generate a job description for a product manager.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4534, "prompt": "What is the formula to calculate speed?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1595, "prompt": "Write five questions to ask in an interview for a software engineer position.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3764, "prompt": "Generate a sentence which has at least three clauses.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5178, "prompt": "Find the circumference of a circle of radius R\n\nInput:\n5", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3335, "prompt": "Construct a valid statement using the word \"heresy\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9037, "prompt": "Name at least five countries that have a population of over 50 million.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3139, "prompt": "List two advantages of choosing a career in tech.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4840, "prompt": "Read the following story and decide if it is fiction or non-fiction.\n\nInput:\nA farmer grows a mysterious flower overnight. The farmer is amazed and decides to sell the plant in the market. People from far and wide visit the farmer's market to get a glimpse of the miraculous flower.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8897, "prompt": "List three software development methods.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5469, "prompt": "Calculate the perimeter of a rectangle with dimensions 6m by 12m.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7316, "prompt": "Find the mathematical equation for the perimeter of the square with sides of length a.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4017, "prompt": "Outline the main points about the given topic in two paragraphs.\n\nInput:\nThe Benefits of Hybrid Cars", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3951, "prompt": "Is it a good idea for students to join extra-curricular activities?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6368, "prompt": "Design a logo for an online store called \"The Closet\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1682, "prompt": "Perform natural language processing on given text.\n\nInput:\nText: Hello, my name is John.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6383, "prompt": "Generate a storyline for a movie about a former professional basketball player", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7422, "prompt": "Arrange the following words to form a valid sentence: left, was, the, cat", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7774, "prompt": "Create a short story about the last day of summer.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4517, "prompt": "Translate the excerpt from English to German.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2508, "prompt": "Write a story about a character trying to get a job in a competitive market.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5248, "prompt": "Name three famous figures who were contemporaries of Galileo Galilei.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2934, "prompt": "Take the input list and select the item that comes alphabetically first, output the item.\n\nInput:\n[Banana, Apple, Orange]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6212, "prompt": "Describe a suitable outfit to wear to a formal evening event.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3250, "prompt": "Come up with an algorithm for predicting house prices in a given city.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1934, "prompt": "Name a use case of the given technology\n\nInput:\nTechnology: Natural language processing", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6961, "prompt": "Categorize a restaurant as either an Italian, Mexican, or Chinese restaurant\n\nInput:\nTaco Bell", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8295, "prompt": "Given a user query, compose a sentence that answers the query.\n\nInput:\nQuery: Where is the largest living organism in the world?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7344, "prompt": "How can I get rid of dust mites in my house?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2392, "prompt": "Insert a suitable synonym for the word \u2018respire\u2019 in this sentence.\n\nInput:\nThe plants respire in the night.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9568, "prompt": "List the seven principles of Kwanzaa.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6862, "prompt": "Outline some ways to prepare a Catfish meal.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1469, "prompt": "Name some of the challenges involved with designing visualizations", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8159, "prompt": "Create a detailed budget.\n\nInput:\nMonthly Income: $3,000", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9310, "prompt": "Develop ideas for a new customer loyalty program", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2994, "prompt": "Generate a story about a musician in less than 40 words.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8379, "prompt": "Find examples of the word \u201cenigma\u201d used correctly in two sentences.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7207, "prompt": "Build an AI-driven chatbot to help users looking for a job find the right one.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8810, "prompt": "Describe what the stock market is and how it works.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3774, "prompt": "Write a persuasive essay about why the redistribution of wealth is necessary.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8412, "prompt": "In what way is blockchain technology important?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4153, "prompt": "Take a given word and modify it to make it its past participle\n\nInput:\ncling", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9827, "prompt": "Rewrite the following passage so that it can be used in an advertising banner.\n\nInput:\nMillie's Bakery has been serving the residents of our small town for the past 15 years. Our delicious selection of breads, cakes and pies are made from the best locally sourced ingredients.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5696, "prompt": "How do you calculate the distance between two points?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9200, "prompt": "Explain what trigonometric functions are.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8894, "prompt": "Identify the mistakes in the following sentence: The house was painted green and purple.\n\nInput:\nThe house was painted green and purple.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8413, "prompt": "Combien de cotes a un triangle triangle?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5668, "prompt": "Create a list of 5 ingredients used to make mac and cheese.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6552, "prompt": "Please rewrite the following sentence to contain only 5 words.\n\nInput:\n\"We have an appointment tomorrow at 5 pm.\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5293, "prompt": "Convert 3 kg to grams", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2682, "prompt": "Generate a report about the last 5 presidents of the United States.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5840, "prompt": "Determine from the following information the type of triangle and explain why.\n\nInput:\nSides: 3, 4, 5", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8662, "prompt": "Generate a joke about a doctor and a patient.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5266, "prompt": "Write the following code in Java.\n\nInput:\nimport requests\n\n# Make a GET request to the MediaWiki API to retrieve a random Wikipedia page\nresponse = requests.get('https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=1&format=json')\n\n# Parse the response JSON to get the title of the random page\nrandom_title = response.json()['query']['random'][0]['title']\n\n# Print the title of the random page\nprint(random_title)", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8891, "prompt": "Suggest an algorithm to classify musical composition as \u2018romantic\u2019 or \u2018modern\u2019.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6783, "prompt": "Generate a story around this character.\n\nInput:\nHenry is a 16-year-old high schooler who is introverted and doesn't like being around people.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1732, "prompt": "Generate a list of three consecutive prime numbers", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9377, "prompt": "Categorize the following activities as either aerobic or anaerobic:\n\nInput:\nRunning; Weightlifting", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6597, "prompt": "How many moons has the planet Earth?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4247, "prompt": "Name the profession of the main character of the movie \"Indiana Jones\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9267, "prompt": "Prepare an outline for an essay about the importance of communication between couples.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4743, "prompt": "Provide three examples of multiples of 6.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7086, "prompt": "Generate a poem of 8 lines about summertime.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5503, "prompt": "Write a chararter sketch for a fictional character.\n\nInput:\nSue Smith", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6848, "prompt": "Write a python function to solve postfix-notation expressions.\n\nInput:\na - (b + c)", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5852, "prompt": "Tell me what this symbol means\n\nInput:\n>", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5797, "prompt": "Choose a font and color palette for the following website.\n\nInput:\nOnline pet shop", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1428, "prompt": "Describe how artificial intelligence is beginning to impact the global economy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9743, "prompt": "Name 3 advantages of using AI-based solutions in healthcare", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4398, "prompt": "Suggest a way to reduce pollution in the given city.\n\nInput:\nLos Angeles", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2665, "prompt": "Identify any three fallacies in this statement: \"We need to close our border to protect our country.\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5224, "prompt": "Explain why whales are endangered.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5207, "prompt": "Provide a step-by-step procedure on how to solve this math problem: 25% of 180", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9079, "prompt": "Name three e-commerce sites", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9320, "prompt": "Write a code that prints the following string in all lowercase letters.\n\nInput:\nMixed Case Characters", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8619, "prompt": "Expand the abbreviated word given in the sentence. Output the modified sentence directly.\n\nInput:\nMy teacher is a PhD in Lit.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1544, "prompt": "Come up with a list of adjectives that include the two words \"sporty\" and \"elegant\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2788, "prompt": "Construct an argument in favor of the given idea.\n\nInput:\nRaising the minimum wage", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6091, "prompt": "Find the greatest common divisor of 5616 and 11609.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4899, "prompt": "Assign one word to describe the tone of the following poem.\n\nInput:\nO gentle spring, how softly you smile", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7901, "prompt": "What social problem is highlighted in the given article?\n\nInput:\nIn the wake of the killing of George Floyd and protesters worldwide, it can no longer be denied that racism is a pervasive problem in the U.S. White supremacy has grown over the centuries, despite the fact that many people of color have faced and continue to face racism that ranges from rhetoric to systemic oppression.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5257, "prompt": "Discuss three possible tools that can help teams with efficient communication.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6288, "prompt": "Assign a confidence score to the following statement: \n\n\"It will rain tomorrow\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7319, "prompt": "Specify a way to effectively communicate with a customer", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9032, "prompt": "Report a bug for the given software.\n\nInput:\nThe newly released online shopping widget has been crashing intermittently.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9978, "prompt": "Suggest some ways to engage athletes during large group practice sessions.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6905, "prompt": "Build a calculator using HTML and JavaScript.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8248, "prompt": "Re-write the following sentence using a gerund.\n\nInput:\nI love running.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6691, "prompt": "Come up with two ideas for a TV series.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7037, "prompt": "Write a narrative paragraph about a time you made a mistake.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8712, "prompt": "Describe the role of emotional intelligence in the workplace", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5709, "prompt": "Come up with a simple explanation on how to use the boolean data type.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6295, "prompt": "Provide an example of asymmetric encryption", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5389, "prompt": "What does the idiom \"Bite off more than you can chew\" mean?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5046, "prompt": "Convert the given JSON code into YAML format.\n\nInput:\n{\n  \"Name\": \"John\",\n  \"Age\": 34,\n  \"Hobby\": [\"Reading\", \"Painting\"]\n}", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3243, "prompt": "What is the most common type of conflict in literature?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4423, "prompt": "Edit the following sentence:\n\nThe man was walking to the store quick", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6441, "prompt": "Generate a paragraph describing a summer day in the park", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3225, "prompt": "Draft a thank-you letter recognizing a volunteers's hard work.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4301, "prompt": "Create a list of tips to help someone who is new to blogging.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4406, "prompt": "Describe a current application of natural language processing", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4813, "prompt": "Read the following text and classify it into one of the three genres: Fantasy, Science Fiction, or Horror.\n\nInput:\nThe woman turned to look at the dark figure that had stepped out of the shadows. She stared in horror as she realised the figure was not human.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9212, "prompt": "Explain the significance of the Black Lives Matter movement.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5801, "prompt": "Describe some actions that a company could take to reduce its carbon footprint.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9874, "prompt": "Generate a dialogue between two friends discussing a book", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5907, "prompt": "Create a dialogue between two people discussing the topic of climate change.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2912, "prompt": "Create a list of six important topics that should be discussed in a meeting", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4448, "prompt": "Make a strawberry smoothie.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6124, "prompt": "Given a text, find the most relevant keyword to describe it\n\nInput:\nA wind turbine is a device that converts wind energy into electrical energy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4996, "prompt": "Draft a business letter to a potential client", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7185, "prompt": "Compose an example of a story in past tense which involves a conversation", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4207, "prompt": "Explain the importance of having good health in the context of personal and public wellbeing.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6223, "prompt": "Compare the behavior of two different dog breeds.\n\nInput:\nGolden Retriever and Labrador", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1493, "prompt": "Generate a response if someone asks you \"How are you?\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3340, "prompt": "List three advantages of using artificial neural networks for machine learning.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5765, "prompt": "Determine the central idea of this article\n\nInput:\nThe article is discussing the effects of gentrification and the displacement of low-income communities in urban cities", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2007, "prompt": "Write pseudocode for a program to calculate the average of a list of numbers.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2155, "prompt": "Transform the given raw data into a brief news article.\n\nInput:\nCompany: XYZ Inc.New product: BlueWidgetRelease date: December 1stKey features: waterproof, lightweight, durableTarget market: outdoor enthusiasts", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6057, "prompt": "What does the phrase \"leave no stone unturned\" mean?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9321, "prompt": "Summarize the given article into 5 sentences that include the main points.\n\nInput:\nSteven Johnson, the author and innovation theorist, is renowned for his research into how cities, networks and teams incubate and sustain innovation. Johnson's key finding: when diverse ideas, workflows, people, and rapidly changing priorities interact with one another, just like in a crowded city, creative solutions arise. Johnson calls these highly creative, interdisciplinary locations adaptive hotbeds and believes that these hotbeds are responsible for many of the world\u2019s most ground-breaking innovations.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2945, "prompt": "Construct the timeline of an event.\n\nInput:\nThe invention of the computer", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1462, "prompt": "Provide a title to the following text.\n\nInput:\nThe main elements of a business plan are the purpose of the business, target market, financials, marketing strategies, and operations.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5929, "prompt": "Describe the experience of eating at an Indian restaurant.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8968, "prompt": "Create 3 new rules for a game.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9122, "prompt": "Create a recipe containing at least 3 ingredients.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8493, "prompt": "Shorten this sentence to 8 words.\n\nInput:\nHe was running at a speed of 25 mph.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6854, "prompt": "Explain how climate change is impacting the Arctic.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4288, "prompt": "Generate an example of a person whose ambition is to become a successful entrepreneur.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2103, "prompt": "Give an example of a simple sentence that follows the subject-verb-object (SVO) structure.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5407, "prompt": "Name the genre of this song.\n\nInput:\n\"It's gonna take a lot to drag me away from you\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9106, "prompt": "Mention one negative effect of television advertising", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3134, "prompt": "What is the area of a triangle with base 8 cm and height 5 cm?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2333, "prompt": "Given a sentence, grade it on the Flesch\u2013Kincaid readability test.\n\nInput:\nThe painting is worth a million dollars.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7841, "prompt": "Analyze the following statement: \"The world would be a better place if technology didn't exist.\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9335, "prompt": "Identify the common structure of a persuasive speech.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2476, "prompt": "Rewrite the given sentence using a synonym of the word in parenthesis.\n\nInput:\nThe town leaders displayed their (ostentatious) wealth by purchasing a gold statue for the town square.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2140, "prompt": "Summarize the following essay, with the main points\n\nInput:\nAll creatures on Earth suffer. Pain is an unavoidable part of life, no matter what form or species. Whether it\u2019s a human\u2019s judgmental scowl or the lion\u2019s injured paw, suffering can be found in the most unlikely places. But why must this be? \n\nSome deny this reality, instead claiming that the whole universe is a random accident. But nature\u2019s grand design points towards a Supreme Being. This is evident in the intricate details of every ecosystem and how every organism is designed for its role.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3753, "prompt": "Your friend is trying to buy a laptop. They are unsure of which features they should prioritize in their purchase. Summarize your advice.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3712, "prompt": "Clean up a set of customer reviews and rewrite some grammatically incorrect sentences. The output should be the fully edited customer reviews.\n\nInput:\nThis place has the grateest food i have ever tasted. The costumer services was also ABSOLUTELY phenominal!", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2658, "prompt": "Diagnose the following medical symptoms.\n\nInput:\nPatient was experience chest pain, a feeling of weakness and fatigue, along with cold sweats and difficulty breathing.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5337, "prompt": "Find the smallest two-digit prime number.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3207, "prompt": "Personalize the following message for the recipient.\n\nInput:\nDear [name],\n\nYou are invited to join us for an evening of exciting celebration!", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8095, "prompt": "Given a binary tree, determine if it is a valid binary search tree (BST). A BST is defined as follows: The left subtree of a node contains only nodes with keys less than the node's key. The right subtree of a node contains only nodes with keys greater than the node's key. Both the left and right subtrees must also be binary search trees. For example, if the input tree is [2,1,3], the output should be true. If the input tree is [5,1,4,null,null,3,6], the output should be false.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4966, "prompt": "Give a 5-step guide on how to plant tulips", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9840, "prompt": "You need to name all the countries that lie between China and India in the Eastern hemisphere.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8658, "prompt": "Suggest three improvement strategies to increase the performance of a website.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8530, "prompt": "Create an esitmated budget for a two-night hotel stay for two people for $450.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6142, "prompt": "Write a short line of dialogue for a person who has just lost their best friend.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8302, "prompt": "Is the following statement true or false? Output \"true\" or \"false\".\n\nInput:\nOur Sun is the largest star in the universe.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6275, "prompt": "Give two examples of how technology can improve education.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2248, "prompt": "Explain, step by step, the process used to solve the following math word problem: 'Jennifer bought five apples and three oranges. How many pieces of fruit does she have in total?'", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2890, "prompt": "Summarize this article about digital journalism in 30 words.\n\nInput:\nDigital journalism has become increasingly prevalent in recent years as advancements in technology, such as smartphones and digital cameras, have allowed journalists to more quickly and easily share their stories with the world.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4672, "prompt": "Write a speech introducing yourself to a group of 500 people.\n\nInput:\nMy name is Mona and I'm here to introduce myself.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4725, "prompt": "Generate a list of the top 10 hobbies for adults.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5606, "prompt": "Convert this sentence from active voice to passive voice: \u201cThe team finished the project on time.\u201d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2593, "prompt": "Provide five examples of stress reduction techniques.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3841, "prompt": "Sort the following words alphabetically and output the sorted list.\n\nInput:\nCar, Cat, Ball, Bag", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5199, "prompt": "Analyze the following tweet and explain why it is offensive.\n\nInput:\n\"Women should stick to taking care of the home, that's all they're good for.\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4115, "prompt": "Generate a list of 10 elements needed for a picnic in the park.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2492, "prompt": "Suggest a better alternative using synonyms for the given word.\n\nInput:\nexpressive", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3832, "prompt": "Edit the given sentence to make sure it conforms to academic writing standards.\n\nInput:\nI believe that internet addiction needs to be taken seriously, its very real", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1304, "prompt": "Name and describe three different strategies for managing stress.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7969, "prompt": "Design a superhero that has the power of telepathy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8977, "prompt": "Introduce the idea of Open Source Software", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6042, "prompt": "Identify one type of bacteria.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1796, "prompt": "What are the steps for solving a quadratic equation?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5061, "prompt": "Explain the fundamental differences between computer science and software engineering.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5991, "prompt": "Provide examples for a kind of speed record.\n\nInput:\nFastest", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5903, "prompt": "Compose a poem that encapsulates the feeling of joy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8716, "prompt": "Paraphrase the sentence in an original way.\n\nInput:\nThe cat chased its tail around the room.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2429, "prompt": "Generate some story ideas that have a happily ever after ending.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5093, "prompt": "Generate a correct formula to calculate surface area of a triangle", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5605, "prompt": "Explain why you think a certain type of food is healthy.\n\nInput:\nAvocados", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4509, "prompt": "Generate a creative poem using natural language processing.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3145, "prompt": "Estimate how long it would take to drive from Los Angeles to Las Vegas.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4952, "prompt": "Analyze this news article and give three main points\n\nInput:\nQatar is facing international condemnation amid reports that foreign workers\u2019 wages have not been paid for months. The country has for years been accused of human rights abuses relating to its use of the kafala sponsorship system for migrant workers, which prevents them from changing jobs or leaving the country without their employer\u2019s permission.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3709, "prompt": "Summarize the events of the War of 1812.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5623, "prompt": "Capitalize the title of the song.\n\nInput:\ntitle of the song: dancing in the dark", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3598, "prompt": "Read the short description and suggest an appropriate title for an article:\n\nInput:\nThe article discusses the increasing popularity of eco-friendly products among consumers and how businesses are adapting to this trend by offering sustainable options.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2239, "prompt": "Explain why a professional goodbye email is important for customer relations.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3986, "prompt": "Based on the presentation, summarize the main points.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6311, "prompt": "Create a list of five questions a GPT model could answer", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5999, "prompt": "Create a new word that expresses something positive.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8472, "prompt": "Describe the culture of the Aztec civilization", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3304, "prompt": "Create 3 different questions about the Organ Donation Act.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8957, "prompt": "Create a proper noun from the following words.\n\nInput:\nground, salt", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6254, "prompt": "Identify the author of this line: \"Romeo, Romeo, wherefore art thou Romeo?\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7870, "prompt": "Generate a 5-word metaphor for loneliness.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5731, "prompt": "Given the following webpage extract, summarize it in three sentences.\n\nInput:\nThe coronavirus pandemic has caused unprecedented disruption to the global economy. Entire sectors have been shut down, with businesses having to make drastic changes to survive. A huge surge in digitalization has been seen as people move online for their needs.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9478, "prompt": "Explain parallelism in grammar.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9369, "prompt": "Identify the type of writing style used in the text.\n\nInput:\nThe opening of the book was vivid and powerful, the author's words igniting a fire in our hearts.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8449, "prompt": "Delete the word \"South\" in this sentence: \"South Korea on Monday announced sweeping tax reforms\"\n\nInput:\nSouth Korea on Monday announced sweeping tax reforms", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2580, "prompt": "Create a view for the following database table in Sqlite which shows the total price for each person.\n\nInput:\nTable name: purchases\nColumns: person, item, quantity, price", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8355, "prompt": "List the names of the three states that share borders with Colorado.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5373, "prompt": "Give an example of a country with an effective health care system.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1685, "prompt": "Compare two companies and their products.\n\nInput:\nApple and Samsung", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2759, "prompt": "Explain what a blockchain is and its benefits", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1601, "prompt": "Identify the type of triangle from the following set of angles.\n\nInput:\n80 degrees, 50 degrees, 50 degrees", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5686, "prompt": "Edit this sentence to make it correct: Apples are the healthiest food\n\nInput:\nApples are the helthiest food", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4138, "prompt": "Create a scientific name for a new species of bird.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8987, "prompt": "Identify two benefits of cycling for a healthy lifestyle.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9781, "prompt": "Explain how the global economy is affected by the pandemic.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8522, "prompt": "Brainstorm a list of ways to increase customer loyalty.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4241, "prompt": "Classify this sentence according to the following categories: Food, Travel, Hobbies\n\nInput:\nI just started knitting", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8418, "prompt": "Generate a set of test cases for a button-click assignment on a website.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2757, "prompt": "Create a comprehensive inventory of objects in a given room.\n\nInput:\nRoom: A bedroom in a traditional Japanese house.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8978, "prompt": "a)Write a prediction about the future of technology in five sentences and b) Describe a potential consequence of the use of this technology in two sentences.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6973, "prompt": "What is x if 5 - x = 2?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7966, "prompt": "Categorize this sentence according to its function: She brought me a sweater.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6732, "prompt": "Composer a melody for a song about a summer night.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6532, "prompt": "Outline the steps to conduct analysis on the given data.\n\nInput:\nData: 10,000 images of animals", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2978, "prompt": "Generate five horror movie titles.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3902, "prompt": "Convert this time from military to standard.\n\nInput:\n14:30", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6675, "prompt": "Analyze the given text to determine the mood\n\nInput:\nThe fog crept in slowly, covering the town with a dreary blanket of grey.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8021, "prompt": "Come up with an arithmetic sequence given the following information.\n\nInput:\nStart Value = 6\nCommon Difference = 2", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9396, "prompt": "Calculate the ratio of apples to oranges.\n\nInput:\nThere are 25 apples and 10 oranges.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5993, "prompt": "Formulate an original sentence using the following words: \"gatekeeper\", \"distribution\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7837, "prompt": "Generate a tweet summarizing the key points of an article on the importance of voting.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1863, "prompt": "Put the following words in alphabetical order: \"flight, television, computer\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8729, "prompt": "Encode the given text using ROT13.\n\nInput:\nHello", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2705, "prompt": "Trace the evolution of the Internet", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6425, "prompt": "Write an analysis about the difference between a linear and a curvilinear relationship.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5406, "prompt": "What is the most important action to take for reducing one\u2019s carbon footprint?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6568, "prompt": "Correct this sentence: \"It's raining very hardly outside\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3166, "prompt": "Describe why these two ideas are different.\n\nInput:\nTree Pruning and Tree Removal", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7898, "prompt": "Rank the following items according to the cheapest to most expensive. Output a list of item index in the order from cheapest to most expensive.\n\nInput:\nFuji Apple\nRose\nDiamond", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9710, "prompt": "Identify the main theme in Romeo and Juliet", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1279, "prompt": "Calculate the cost if two items cost 2.50 each and 5% sales tax is added.\n\nInput:\nTwo items costing 2.50 each.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8847, "prompt": "Suggest a possible next step for this experiment.\n\nInput:\nWe collected data from 100 subjects on their preference of music and found no correlation between the two.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8047, "prompt": "Match each element in the list with a number.\n\nInput:\nApple\nBanana\nCherry", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2150, "prompt": "Suggest a film that would be suitable for a family movie night.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4341, "prompt": "Explain how mathematics is used in engineering", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9773, "prompt": "Create a quip about technology", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7200, "prompt": "Provide a list of 5 items that you should always carry in your bag.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9446, "prompt": "Suggest a meal that can be prepared in less than 30 minutes.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8519, "prompt": "Given a customer feedback, detect any sentiment words and explain what sentiment they convey.\n\nInput:\n\"This product was beautiful, I'm so glad I bought it!\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2107, "prompt": "Come up with a catchy birthday message for a friend.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5646, "prompt": "Construct a list of instructions", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3413, "prompt": "Find words to describe a beach festival.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5990, "prompt": "Who won the 2017 Oscars for Best Actor?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8455, "prompt": "Create a news headline to describe a given event.\n\nInput:\nThe success of a new ecofriendly venture", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9220, "prompt": "List the five different types of adjectives", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3256, "prompt": "What is the thesis of the article \u201cA Study of the Sky\u201d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1734, "prompt": "Provide content tags for the given article.\n\nInput:\nA new study has been conducted by the Center for Disease Control that investigates the link between air pollution and cardiovascular health.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5190, "prompt": "Given a variety of adjectives, classify them into three categories: negative, neutral and positive\n\nInput:\nhostile, agreeable, tolerant, respectful", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3862, "prompt": "Create a single sentence using all of the words given.\n\nInput:\nApple, hat, run", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6363, "prompt": "Make a plan for reducing greenhouse gas emissions.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1486, "prompt": "Create a list of ten recipes to make for a dinner party.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7960, "prompt": "Explain how sentiment analysis works.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2791, "prompt": "Explain the concept of gravity using metaphors.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3123, "prompt": "Identify the character given the following description.\n\nInput:\nHe is an intelligent wizard who is skilled in the art of magic and teaches at the Hogwarts School of Witchcraft and Wizardry.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8838, "prompt": "Identify the type of sentence and provide the corresponding label.\n\nInput:\nShe wrote a poem about joy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3191, "prompt": "Analyze the given poem and identify its main theme.\n\nInput:\nTwo roads diverged in a yellow wood,\\nAnd sorry I could not travel both\\nAnd be one traveler, long I stood\\nAnd looked down one as far as I could\\nTo where it bent in the undergrowth;\\n\\nThen took the other, as just as fair,\\nAnd having perhaps the better claim,\\nBecause it was grassy and wanted wear;\\nThough as for that the passing there\\nHad worn them really about the same,\\nThe roads that morning equally lay\\nIn leaves no step had trodden black.\\nOh, I left the first for another day!\\nYet knowing how way leads on to way,\\nI doubted if I should ever come back.\\n\\nI shall be telling this with a sigh\\nSomewhere ages and ages hence:\\nTwo roads diverged in a wood, and I\u2014\\nI took the one less traveled by,\\nAnd that has made all the difference.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3790, "prompt": "How does physical activity influence mental health?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9444, "prompt": "What is that word that sounds like 'exert' but it means a small part of a bigger text.\n\nInput:\nn = 20", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6052, "prompt": "Given the following list of ingredients, provide 3 unique recipes using at least 4 of the listed ingredients.\n\nInput:\nIngredients: potatoes, carrots, celery, onions, garlic", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9616, "prompt": "Find the largest number in the following list.\n\nInput:\n[-10, 8, 0, 18, 1]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5750, "prompt": "Generate five English vocabulary words associated with the color 'red'.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8084, "prompt": "Write a short story (less than 500 words) in which the protagonist must overcome a challenge.\n\nInput:\nA bored office worker.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9184, "prompt": "Reverse the given array\n\nInput:\n[1, 2, 3, 4, 5]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9015, "prompt": "What is the maximum speed limit on suburban roads?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5264, "prompt": "Look up the definition of 'algorithm' in a dictionary and compose a sentence expressing its meaning.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8761, "prompt": "List three common uses for machine learning in finance.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3637, "prompt": "Take a given set of facts and create a creative story with it.\n\nInput:\nThe sun was setting, the sky was pink and there was a beach with a lighthouse in the distance.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7559, "prompt": "Create a unique password for a user account.\n\nInput:\nThe user's name is John Doe.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4390, "prompt": "Create an output formatted as a CSV table using the following data\n\nInput:\nCity | Population | Year\n-----| ----------|-----\nNew York | 8,601,186 |2019\nTokyo | 9,393,098 | 2020", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9606, "prompt": "Identify the statements which represent facts.\n\nInput:\nCroissants are French pastries. The sky is blue.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3503, "prompt": "Write a short dialogue between two people discussing a new type of mobile device.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2406, "prompt": "The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. How much money does Joe end up spending at the fair? Think about this step-by-step.\n\nInput:\nA. $16.00,  B. $20.50,  C. $17.50,  D. $20.00,  E. $4.50", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8075, "prompt": "How did the US respond to the attacks on 9/11?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6840, "prompt": "Construct a CSS flexbox class", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9597, "prompt": "Create a 20-word poem based on the following nature scene.\n\nInput:\ndove perched on a tree branch in a meadow", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5648, "prompt": "Rewrite the given sentence to make it more interesting.\n\nInput:\nI am studying computer engineering and I hope to build AI in the future.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1303, "prompt": "Classify the animal in the following sentence as either mammal, bird, reptile or fish.\nOutput the correct category of the animal.\n\nInput:\nThe shark swam in the sea.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5905, "prompt": "Generate a joke involving a cat and a dog.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6162, "prompt": "Categorize this phenomena as either natural or human-induced.\n\nInput:\nOzone layer depletion", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9301, "prompt": "Identify which of the given facts are true.\n\nInput:\n- The capital of France is Vienna.\n- The capital of France is Paris.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3702, "prompt": "What is the square root of 121?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8593, "prompt": "Suggest a title for a short story with the theme of \"redemption\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9214, "prompt": "What is the motive behind this character's action?\n\nInput:\nJohn stormed out of the room without saying anything.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6927, "prompt": "Generate an appropriate template to describe a customer service interaction", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6718, "prompt": "Given two ingredients, develop a recipe for making a cake.\n\nInput:\nalmonds and orange juice", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7453, "prompt": "Describe the scene in this photo.\n\nInput:\n[Insert Photo Here]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8738, "prompt": "Generate a list of possible future features for the GPT model.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6544, "prompt": "Assess the environmental impact of a renewable energy source\n\nInput:\nWind Energy", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4358, "prompt": "Define the term \"natural selection\".", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5182, "prompt": "Give a creative name for a pet shop", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7549, "prompt": "Given a sentence, identify the nouns present in that sentence.\n\nInput:\nThis world is full of surprises.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5095, "prompt": "Classify the sentence as affirmative or negative.\n\nInput:\nHe had no patience for the game.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8006, "prompt": "Output the second tweet in the input tweets.\n\nInput:\nTweets: \n1. I am so thankful for everything that I have.\n2. Life is beautiful, embrace it!\n3. The sun is shining and I am happy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1977, "prompt": "Stitch together this collection of words to form a narrative story.\n\nInput:\nwashed, glassy, slick, rippled, murky, vast", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6485, "prompt": "Explain why this argument is wrong.\n\nInput:\nWe should close all public schools to prevent the spread of COVID-19.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7520, "prompt": "Find the equivalent Celsius and Fahrenheit temperature for 34.4\u00b0C.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7601, "prompt": "Given a set of equations, solve them\n\nInput:\n2x + 7y = 5\n3x - 7y = 5", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3760, "prompt": "List 10 contemporary news topics that you think would make interesting articles.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9394, "prompt": "Describe an animal that lives in the Arctic.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1868, "prompt": "Give the input and output required to complete the instruction: Generate a description of a sunset", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9508, "prompt": "Identify and describe the different types tropical storms", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6711, "prompt": "Generate a holiday menu for a four-person family.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2909, "prompt": "Compose a limerick describing a morning in the forest.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8490, "prompt": "Why is data privacy important?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2898, "prompt": "Generate a response that demonstrates empathy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9896, "prompt": "Name an example of a simulation based on A.I.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8764, "prompt": "For the given product, identify the best selling feature.\n\nInput:\nProduct: Smartphone", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1513, "prompt": "List three things artificial intelligence can do.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3629, "prompt": "Generate a euphemism for getting fired.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7993, "prompt": "Describe the character's emotions.\n\nInput:\nThe character saw a stolen car being driven away.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3797, "prompt": "List the elements of the periodic table in the order of increasing atomic number.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2488, "prompt": "Identify the action that the following sentence describes.\n\nInput:\nAfter the exam ended, he breathed a deep sigh of relief.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8970, "prompt": "Tell us about the benefits of using encryption.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6818, "prompt": "Generate three adjectives to describe how a computer feels.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7788, "prompt": "Choose the option from the given choices that is most like the term.\n\nInput:\nTaxonomy\na) accounting\nb) biology\nc) engineering\nd) psychology", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2578, "prompt": "Output the longest palindrome in a sentence.\n\nInput:\nThis is sentence with a palindrome", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6655, "prompt": "Rank the following vegetables from least to most nutritious: potatoes, carrots, kale.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7499, "prompt": "Classify the provided statement into one of the categories below.\n\nInput:\nI always carry a water bottle with me so I stay hydrated throughout the day.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6460, "prompt": "Convert this sentence from affirmative to negative\n\nInput:\nShe likes playing video games.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9273, "prompt": "Provide an output that is text describing the activities of a main character in a fictional story\n\nInput:\nAlice, a young girl living in a small village", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1850, "prompt": "Use natural language processing to analyze this sentence.\n\nInput:\nThis article focuses on the progress made in artificial intelligence.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2384, "prompt": "Describe what DNA is.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5115, "prompt": "What are the three stages of sustainable water management?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5979, "prompt": "Compare the two shipping methods below and provide which one should be used in a specific case:\n\nInput:\nShipping Method A: 5-7 days, cost $10\nShipping Method B: 2-3 days, cost $20", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2743, "prompt": "What is the ATP World Tour Finals?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8387, "prompt": "Generate a sentence that is oxymoronic.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2911, "prompt": "Evaluate a recent government policy.\n\nInput:\nThe European Union's Digital Services Act.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8546, "prompt": "Summarize the current state of renewable energy in the US.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3993, "prompt": "Explain how a computer solves a crossword puzzle.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6177, "prompt": "Name three benefits of remote working?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1736, "prompt": "What elements are in the periodic table with atomic number 13?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2015, "prompt": "False positive or false negative?\n\nInput:\nA test result is negative but the person is actually having the infection.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6586, "prompt": "What is the best way to help children learn information quickly and effectively?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2181, "prompt": "Re-write the proverb in your own words.\n\nInput:\nA bad penny always turns up.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6077, "prompt": "Given a recipe, suggest an alternative ingredient for one of the given items.\n\nInput:\nPecan Pie Recipe: 1/2 cup butter, 2 cups light brown sugar, 1/2 cup white corn syrup, 3 eggs, 1 teaspoon vanilla, 1/2 teaspoon salt, 1 1/2 cups chopped pecans", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7146, "prompt": "Select a restaurant that fits the bill.\n\nInput:\nA group of 8 people looking for a casual Thai restaurant near Union Square, San Francisco", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7414, "prompt": "Summarize the given paragraph using the GPT model.\n\nInput:\nIn recent decades, global warming has become one of the most pressing issues of our time. In fact, the planet has been experiencing higher temperatures and more extreme weather events since the beginning of the Industrial Revolution. To ensure a safe and healthy environment for current and future generations, efforts must be made to address this problem.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8333, "prompt": "Describe the film streaming trend in the past 5 years.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3653, "prompt": "Determine the longest word in the following sentence.\n\nInput:\nIt is a wonderful sunny day.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5271, "prompt": "What would be a possible solution to this issue?\n\nInput:\nThere is an increasing number of homeless people in the city.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8028, "prompt": "Given a set of numbers, find the maximum value.\n\nInput:\nSet: {10, 3, 25, 6, 16}", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4218, "prompt": "You are playing a game. Calculate your final score after taking the following into account: starting score is 50, earned 4 points and lost 2 points.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4053, "prompt": "List 5 adjectives that describe an elephant.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4136, "prompt": "Create an example sentence for the phrase 'baffle the audience'.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2556, "prompt": "Rewrite these words into a sentence: \"tired, ran, quickly\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5215, "prompt": "Describe the role of a doctor in a hospital.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9432, "prompt": "Generate a recipe for a healthy meal that's easy to make.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3612, "prompt": "Invent a new recipe using the following ingredients: apples, onions, garlic, and olive oil.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5073, "prompt": "For the following sentence, create a question that starts with the word \"which\".\n\nInput:\nBudapest is the capital of Hungary.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8833, "prompt": "Come up with lyrics for a rap song about ice cream.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5432, "prompt": "Generate an HTML page with given text.\n\nInput:\nThis is a sample text.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8807, "prompt": "Categorize a product as either a necessity or a luxury item.\n\nInput:\niPhone 12 Pro Max", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5454, "prompt": "List five American sports teams", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1414, "prompt": "Give an example of a food that is served at a typical Indian wedding", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8900, "prompt": "Name two ways to activate a machine learning model.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5983, "prompt": "Is the following sentence structured correctly?\n\nInput:\nWe went for a walk in the park and played hide and seek.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3856, "prompt": "Analyze the given sentence and classify it into five categories: subject, verb, object, complemment, and adverbial phrase.\n\nInput:\nThe phoenix quickly flew away.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2473, "prompt": "What type of capital protection strategies can be used in a given scenario?\n\nInput:\nInvesting in a highly volatile stock market", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8514, "prompt": "Change this sentence so it is grammatically correct.\n\nInput:\nThe dog bark the loudest.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6934, "prompt": "Generate a word problem that requires the four basic operations:", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6172, "prompt": "Use the given phrases to construct a procedural story.\n\nInput:\ndown the stairs, opening the door, swimming in the lake", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8228, "prompt": "Write a brief report about the benefits of outsourcing", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5368, "prompt": "Generate an example of a use case for predictive analytics", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8762, "prompt": "Give a real world example of a triangle.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6220, "prompt": "What is the benefit of using a neural network for computer vision tasks?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4531, "prompt": "Create a for loop for the given list of items\n\nInput:\nlist = [\u201ca\u201d, \u201cb\u201d, \u201cc\u201d]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7577, "prompt": "Generate an example of the application of data mining techniques in marketing.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9195, "prompt": "Create a recipe for oatmeal raisin cookies.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3012, "prompt": "Rewrite this sentence to reflect a more formal tone: \u201cShe\u2019s really cool\u201d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5156, "prompt": "Describe the difference between an artificial neural network and a GPT model.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7522, "prompt": "Generate code to take user input and print it.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6118, "prompt": "Generate a mathematical expression that uses the sum and product of two numbers and evaluates to 10.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6108, "prompt": "list three countries with longest total coastline", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1621, "prompt": "Create a three-column table that displays the advantages and disadvantages of online shopping.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5768, "prompt": "Define the term 'computational linguistics'.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1393, "prompt": "Given a user query, determine if it is an example of an independent or dependent clause.\n\nInput:\nWhenever I go to the park", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2065, "prompt": "Summarize the article about Belgian cricket.\n\nInput:\nBelgium has become a hotspot for cricket in recent years. The sport has grown exponentially in the country, with more teams and players appearing each season. This development is spreading with the sport being taught in schools and community centers, which is providing a platform for more people to take part.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9417, "prompt": "Arrange the following words in alphabetical order: cat, dog, apple, bear", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5960, "prompt": "Discuss the importance of setting SMART goals.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7045, "prompt": "Rewrite the sentence \"I eat hamburgers\" in the past tense.\n\nInput:\nI eat hamburgers.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4857, "prompt": "Given a sentence, edit the sentence to make it more expressive and engaging.\n\nInput:\nThe dress was made of silk.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4383, "prompt": "Based on the input provided, come up with a joke.\n\nInput:\nA scientist and an engineer", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5377, "prompt": "What are the benefits of unstructured play for children?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3507, "prompt": "Suggest some habits that help in maintaining mental health.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2855, "prompt": "Generate a meaningful quote about education.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1907, "prompt": "What is the difference between global warming and climate change?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6333, "prompt": "Grade the following essay out of 100\n\nInput:\nThe purpose of this essay is to explore the impact of technology on society. Technologies such as the internet, artificial Intelligence etc. are changing the way we live, work, and interact with one another. They are making life easier and creating new jobs, but they are also creating new risks and challenges.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8499, "prompt": "Compare and contrast the two governments of France and Germany.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1808, "prompt": "Name a sport that is played using a ball", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3420, "prompt": "Given two sentences, identify the relation between them. Output must be a single word.\n\nInput:\nShe drove to the store.\nShe bought groceries.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2739, "prompt": "Generate a story about a princess who falls in love with a prince from a different kingdom.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6106, "prompt": "Write an algorithm to sort a list of numbers from smallest to largest.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6624, "prompt": "Write a story that starts with the given line.\n\nInput:\nAt the bottom of the lake, something stirred.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4145, "prompt": "Explain what an algorithm is in 100 words.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4557, "prompt": "List three steps to create a successful presentation.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3432, "prompt": "Given a list of data, identify the two inputs that can be used to create a specific output.\n\nInput:\nInput1: temperature (in Celsius), Input2: humidity levels, Input3: time of day, Output: air quality", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7267, "prompt": "Given the following ingredients, create a new pasta dish.\n\nInput:\nspinach, tomatoes, cooked chicken, onion, garlic, cream", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9977, "prompt": "Generate a 4-digit random number in the range [1000, 9999].", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9500, "prompt": "Analyze why the internet is important for the economy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5736, "prompt": "Summarize the article \"Rational Thinking During Crisis\" in one sentence.\n\nInput:\nThe article explains the importance of rational thinking and taking a scientific approach when dealing with crises.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3963, "prompt": "Evaluate the following numerical expression\n\nInput:\n(7-4)\u00d7 2", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5481, "prompt": "State a plausible hypothesis regarding the given topic.\n\nInput:\nThe effects of natural disasters on economic growth", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9173, "prompt": "Define the concept of multi-touch marketing", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6821, "prompt": "Describe the cultural implications of a given trend.\n\nInput:\nFood delivery apps", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3152, "prompt": "Find the value of x in the expression x + 4 = 10", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8951, "prompt": "Analyze the themes presented in this literary work\n\nInput:\n[insert literary work here]", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2496, "prompt": "Create a short dialogue between two characters about the given topic.\n\nInput:\nTopic: The importance of being organized", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3574, "prompt": "Rank the following in order of importance, from most important to least important: physical health, mental health, academic literacy", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4965, "prompt": "What is the most effective method for repressing negative thoughts?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7787, "prompt": "What is the main purpose of the game Green Egg?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7265, "prompt": "Given an array, find the non-duplicate numbers and their respective number of occurrences.\n\nInput:\nArray: {1,1,2,3,3,3,4,4}", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2742, "prompt": "Identify the error in the following HTML code and explain how to fix it.\n\nInput:\n<html>\n<head>\n<title>My Homepage\n</head>\n</html>", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7740, "prompt": "Please write a brief description of what stress is and how it can affect an individual.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1490, "prompt": "Rewrite the following sentence using a part of speech other than a verb.\n\nInput:\nHe speaks four languages.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5603, "prompt": "Categorize the following words into either animals or plants: apple, shark, oak, cow", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3291, "prompt": "How can one minimise wastage of water?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7311, "prompt": "Explain the difference between an operating system and an application.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5566, "prompt": "Propose a personal budget for a family of three with a budget of $3000 per month.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7516, "prompt": "Explain why a vector with magnitude 5 is twice as long as a vector with magnitude 10?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7359, "prompt": "Explain how this event is personally relevant to you.\n\nInput:\nThe Civil Rights Movement of the 1960s", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3040, "prompt": "Convert the following binary string to text.\n\nInput:\n0100100001100101011011000110110001101111001000000111011101101111011100100110110001100100", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5099, "prompt": "Re-frame the following sentence: \"I can't bear the heat.\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9003, "prompt": "Generate a list of potential tourist attractions for a city.\n\nInput:\nNew York City", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1672, "prompt": "What is the difference between a Turing Machine and a Universal Turing Machine?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6646, "prompt": "Design an algorithm to identify a palindrome", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4895, "prompt": "Produce a list of questions you can ask a customer service representative to get an understanding of their role in the organization.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2298, "prompt": "Given a string, find the most frequent character.\n\nInput:\n\u201cabbcddeefffff\u201d", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8884, "prompt": "Create a code snippet to generate n-dimentional array.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6222, "prompt": "Write a review of the restaurant.\n\nInput:\nThe restaurant is called La Taqueria.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7965, "prompt": "Categorize the following movie titles as horror, comedy, or drama.\n\nInput:\nThe Shining, The Mask", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3178, "prompt": "Name three things that the given profession may do on a daily basis.\n\nInput:\nDoctor", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3558, "prompt": "Turn the sentence fragment in to a complete sentence\n\nInput:\nLack of access to clean water", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2004, "prompt": "When did fall of the Berlin Wall take place?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1871, "prompt": "Generate a fantasy story using the characters and settings given in the input.\n\nInput:\nCharacters: Elves, Dwarves, Wizard\nLocation: Forest", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 6258, "prompt": "Translate the given sentence into English.\n\nInput:\n\"Bonjour, comment allez-vous?\"", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9350, "prompt": "Based on the given data set, write a research paper that discusses the purpose of the data set, trends, and analysis\n\nInput:\nThe data set contains information about the number of Covid-19 cases in the United States by state from 2020-2021.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3169, "prompt": "Summarize the given scientific paper.\n\nInput:\nThis paper evaluates the impact of the newly proposed Variable Network Adoption Model (VNAM) on the accuracy of predictive data analytics tasks. VNAM is based on a dynamic architecture which can adopt to the underlying data characteristics and can be applied to supervised learning tasks.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2856, "prompt": "Describe a situation in which being detail-oriented is important.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3489, "prompt": "Analyze the following statement: Apps have made our lives easier", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7643, "prompt": "Given the roots of two binary trees root and subRoot, return true if there is a subtree of root with the same structure and node values of subRoot and false otherwise.\n\nA subtree of a binary tree tree is a tree that consists of a node in tree and all of this node's descendants. The tree tree could also be considered as a subtree of itself.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8710, "prompt": "What color best represent the feeling of serenity?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7351, "prompt": "Today is a sunny day. Write a short poem about it.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8143, "prompt": "What is a feature in supervised machine learning?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3799, "prompt": "Insert the missing articles.\n\nInput:\nBob goes ____ school every day.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2887, "prompt": "Generate a list of security best practices for a company's website.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 9296, "prompt": "Restate the verse in your own words\n\nInput:\nWe are the music makers\nAnd we are the dreamers of dreams", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7962, "prompt": "Identify the country that is associated with the following flag.\n\nInput:\n(Flag image)", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5854, "prompt": "Who are the current members of the United Nations Security Council?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1798, "prompt": "Rewrite the following passage with different words and yet still convey the same message.\n\nInput:\nThe car was moving too fast and caused an accident.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7343, "prompt": "What natural disaster can be caused by the eruption of a volcano?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4828, "prompt": "Describe a personality trait that is essential for a successful entrepreneur.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8541, "prompt": "Given the input, explain why students should learn coding.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8562, "prompt": "Identify three characteristics of a monarch butterfly.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5138, "prompt": "List 5 things that make a city great.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7215, "prompt": "Construct a compound sentence using the given two simple sentences.\n\nInput:\nHe likes to play video games. He also enjoys playing soccer.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2892, "prompt": "What is the best way to treat patients who have type 2 diabetes?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7291, "prompt": "Identify the brand in the following piece of text.\n\nInput:\nThe all-new system from Samsung is going to be the next big thing, with its cutting-edge features and intuitive design.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7149, "prompt": "Pick the simile from the list:\n\nInput:\nAs thin as a needle, loud as a thunder, as tall as a tree", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2254, "prompt": "Explain what temperature is in scientific terms.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 7799, "prompt": "Write a letter of resignation.\n\nInput:\nJoe Smith", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5791, "prompt": "Write a story about a person living in a futuristic city wishing to explore the outside world.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 4377, "prompt": "Read the following paragraph and summarize it to five sentences.\n\nInput:\nThe scientific method is a cyclical process that requires multiple steps in order to properly test a hypothesis. The process begins with an observation, then progresses to forming a hypothesis, designing an experiment to test the hypothesis, collecting and analyzing data, and drawing a conclusion that either confirms or rejects the hypothesis. After the conclusion is drawn, further research may be conducted to validate the results and make improvements to the experiment.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 3268, "prompt": "Suggest me a way to save money on a family vacation.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 8728, "prompt": "Generate a response based on the conversation below.\n\nInput:\nBob: I'm really not sure what I'm going to do with my life\nAlice:", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 2764, "prompt": "Describe the overall tone of the following passage.\n\nInput:\nApples and oranges have been used as symbols of contrast for centuries. Where apples are sought for their sweet flavors and nutritional value, oranges are valued for their sour taste and thirst-quenching properties.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 1611, "prompt": "Edit the paragraph for grammatical errors.\n\nInput:\nThe apple's are ripe and juicy.", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}
+{"question_id": 5261, "prompt": "Classify the following sentence as polite, direct, or impolite.\n\nInput:\nCan you help me out with this problem?", "label": 0, "source": "alpaca_data_cleaned", "prompt_style": "base"}

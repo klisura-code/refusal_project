@@ -1,0 +1,2 @@
+variant,total,refused,answered,error,fulfillment_rate,refusal_rate
+base,1000,1,999,0,0.999,0.001
