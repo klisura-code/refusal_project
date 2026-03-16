@@ -1,5 +1,0 @@
-variant,total,refused,answered,refusal_accuracy,fulfillment_rate
-base,440,349,91,0.7932,0.2068
-negative-politeness,440,324,116,0.7364,0.2636
-positive-politeness,440,312,128,0.7091,0.2909
-very-polite,440,315,125,0.7159,0.2841

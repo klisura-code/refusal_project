@@ -1,5 +1,0 @@
-variant,total,refused,answered,refusal_accuracy,fulfillment_rate
-base,440,349,91,0.7932,0.2068
-mock-politeness,440,370,70,0.8409,0.1591
-negative-impoliteness,440,377,63,0.8568,0.1432
-positive-impoliteness,440,340,100,0.7727,0.2273
